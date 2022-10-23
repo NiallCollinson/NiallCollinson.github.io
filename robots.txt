@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://NiallCollinson.github.io/sitemap.xml
